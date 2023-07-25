@@ -2,7 +2,6 @@
 
 🧑🏫 Estudante do curso Tecnólogo em Análise e Desenvolvimento de Sistemas do IFPI Campus Picos-PI
 
-- 🔭 Atualmente estou trabalhando com Back End
 - 🌱 Estou aprendendo Java e PostgreSQL
 
 ##
